@@ -1,2 +1,2 @@
-# hello-world
-Hello world new project template.
+# flappybass
+Rhythm based flappy bird clone!
